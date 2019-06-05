@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/tavisser/Contoso/_apis/build/status/tavisser.pipelines-java?branchName=master)](https://dev.azure.com/tavisser/Contoso/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
